@@ -41,7 +41,7 @@ Professor 1 ─────── N Curso 1 ─────── N Aluno
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+git clone https://github.com/JeanCandido/sistema-escolar.git
 ```
 
 ### 2. Entre na pasta do projeto
