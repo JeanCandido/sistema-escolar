@@ -47,7 +47,7 @@ git clone https://github.com/JeanCandido/sistema-escolar.git
 ### 2. Entre na pasta do projeto
 
 ```bash
-cd SEU-REPOSITORIO
+cd sistema-escolar
 ```
 
 ### 3. Execute o projeto com Maven
